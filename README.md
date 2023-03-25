@@ -18,6 +18,8 @@
 ## Ресурсы
 Перечь ресурсов, которые могут вам пригодиться. Будут дополняться постепенно в соответствии с пройденными темами.
 
+### Занятие 1 ------------------------------------------------------------------------------------------------------------------------
+
 - [White Paper](https://ethereum.org/en/whitepaper/)
 - [Документация по Solidity](https://docs.soliditylang.org/en/v0.8.19/)
 - [Библиотека с готовыми решениями OpenZeppelin](https://www.openzeppelin.com/contracts)
@@ -26,6 +28,14 @@
 - [Call, send, transfer в Ethereum](https://ethereum-blockchain-developer.com/2022-04-smart-wallet/07-low-level-calls-in-depth/)
 - [Простой(слишком) кошелек на Solidity](https://nextrope.com/how-to-create-a-simple-wallet-smart-contract-using-solidity/)
 
+### Занятие 2 ------------------------------------------------------------------------------------------------------------------------
+
+- [Alchemy](https://www.alchemy.com/)
+- [Hardhat](https://hardhat.org/docs)
+- [Hardhat Guide](https://www.youtube.com/watch?v=QPM6DGfobg4&ab_channel=EatTheBlocks)
+- [Канал с детальным разбором Solidity](https://www.youtube.com/watch?v=SKQFaI34ykw&ab_channel=IlyaKrukowski)
+- [Truffle - альтернатива Hardhat](https://trufflesuite.com/)
+- [Infura - провайдер, альтернатива Alchemy](https://www.infura.io/)
 
 ## Таблица оценок
 
